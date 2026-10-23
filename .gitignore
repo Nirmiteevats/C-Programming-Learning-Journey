@@ -1,0 +1,14 @@
+
+# Compiled C files
+*.exe
+*.obj
+*.o
+*.ilk
+*.pdb
+*.idb
+*.pch
+*.dll
+*.lib
+
+# IDE files
+.vscode/
